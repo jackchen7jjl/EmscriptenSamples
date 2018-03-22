@@ -50,3 +50,9 @@ SETUP_SAMPLE_START(CallJsSample)
 		CallJsSample/CallJsSample.cpp
 	)
 SETUP_SAMPLE_END(CallJsSample)
+
+SETUP_SAMPLE_START(SdlSample)
+	SET(SOURCE_FILES
+		SdlSample/SdlSample.cpp
+	)
+SETUP_SAMPLE_END(SdlSample)
